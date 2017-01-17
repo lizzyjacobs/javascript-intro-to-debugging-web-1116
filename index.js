@@ -2,7 +2,7 @@ function sayHey() {
   return "Hey!"
 }
 
-function sayHeyFriend(name) {
+function sayHeyFriend(namie) {
 
-  return `Hey, ${name}!`;
+  return `Hey, ${namie}!`;
 }
